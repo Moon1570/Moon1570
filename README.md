@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Moon1570
-- 👀 I’m interested in Java, Machine Learning, Fuzzy Logic, Matlab, Django(learning)
+- 👀 I’m interested in Java, Machine Learning, Fuzzy Logic, Matlab, Django
 - 🌱 I’m currently learning Django, NLP
 - 💞️ I’m looking to collaborate on above topics
 - 📫 How to reach me - moon.cse4.bu@gmail.com or mminhaj17.cse@bu.ac.bd
