@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a passionate developer, researcher, and lifelong learn
 ---
 
 ## 🧠 About Me
-- 🎓 Lecturer at University of Global Village | Ex-Software Engineer  
+- 🎓 Lecturer at University of Global Village | AI & Security Researcher | Ex-Software Engineer  
 - 🛠 Languages: Python, Golang, Java
 - 📝 Peer reviewer for journals under Elsevier 
 - 🤖 Areas of Interest:  
