@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate developer, researcher, and lifelong learn
 
 ## 🧠 About Me
 - 🎓 Lecturer at University of Global Village | AI & Security Researcher | Ex-Software Engineer  
-- 🛠 Languages: Python, Golang, Java
+- 🛠 Languages: Python, Golang, Java, JavaScript(TS, React, Node), C, C++, PHP, MATLAB, Bash
 - 📝 Peer reviewer for journals under Elsevier 
 - 🤖 Areas of Interest:  
   - Machine Learning, Deep Learning, Generative Models  
@@ -85,7 +85,6 @@ Welcome to my GitHub! I'm a passionate developer, researcher, and lifelong learn
 ![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contract-Auditing-%2342b883?style=for-the-badge)
 
-### 🛠 Dev Tools
 ### 🛠 Dev Tools
 ![Cursor](https://img.shields.io/badge/Cursor-%23000?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white) <!-- Placeholder icon -->
 ![Windsurf](https://img.shields.io/badge/Windsurf-AI%20IDE-%2300C4B4?style=for-the-badge)
