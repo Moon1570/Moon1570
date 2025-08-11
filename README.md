@@ -120,7 +120,7 @@ Welcome to my GitHub! I'm a passionate developer, researcher, and lifelong learn
 
 ---
 
-> 🚀 *“Code is the canvas. AI is the brush.”*  
+> 🚀 *“Free as a Cloud”*  
 Let’s build something amazing together!
 
 ---
