@@ -102,16 +102,21 @@ Welcome to my GitHub! I'm a passionate developer, researcher, and lifelong learn
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moon1570&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arafat-mahmud&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Contribution Graph" />
-</div>
-
 ---
+
 
 ## 🏃‍♂️ Contribution Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moon1570&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏃‍♂️ Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moon1570&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Contribution Graph" />
 </div>
 
 ---
